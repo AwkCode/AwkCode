@@ -26,5 +26,5 @@ I build things. Most of what's here was built using AI tools like Claude Code â€
 
 ### Connect
 
-- [LinkedIn](https://linkedin.com/in/daniel-weadock)
+- [LinkedIn](https://www.linkedin.com/in/daniel-weadock-393205292/)
 - Email: Danielweadock0@gmail.com
