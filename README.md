@@ -1,30 +1,29 @@
-## Hey, I'm Daniel Weadock
+<div align="center">
 
-**Co-Founder @ Kings Court Boston** | BS Business Administration, Merrimack College '25 | Boston, MA
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+cold+call.+I+vibe+code.;Co-Founder+%40+Kings+Court+Boston;Looking+for+BDR%2FSDR+roles+in+Boston&font=Fira%20Code&size=22&duration=3000&pause=800&center=true&width=600&height=45&color=4A9EFF)](https://git.io/typing-svg)
 
-I build things. Most of what's here was built using AI tools like Claude Code — from production web apps to autonomous trading systems.
-
----
-
-### What I've Built
-
-**Kings Court Membership Platform** — Full production web app for an entertainment venue I co-founded. Members sign up, get digital wallet passes, check in via QR, and receive automated email/SMS onboarding. Built with Next.js, TypeScript, Supabase, and deployed on Vercel.
-
-**SolEdge** — Autonomous crypto trading bot running live 24/7 with real capital on Oracle Cloud. 8 automated strategies, real-time monitoring dashboard. Built with Python and Flask.
-
-**Solami** — Grid search engine that tests 50,000+ trading strategy parameter combinations to find optimal setups.
+</div>
 
 ---
 
-### Currently
+### Daniel Weadock
 
-- Looking for **BDR/SDR roles** in Boston
-- Running finance and operations at Kings Court Boston
-- Building whatever I can with AI
+Co-Founder @ Kings Court Boston · Merrimack '25 · Boston, MA
 
----
+Sales background. I enjoy building things on the side with AI tools.
+
+**Looking for BDR/SDR roles in Boston.**
+
+### Stuff I've made
+
+- **Kings Court Membership System** — the web app for the venue I co-founded. Wallet passes, QR check-in, automated SMS/email onboarding.
+- **Solana Strategy Tester + Trading Bot** — a backtesting engine that sweeps 50K+ parameter combos, paired with a live trading bot that runs 24/7 in the cloud.
+- **AI Consulting** — automated cold email and lead-finding agents built in n8n.
+
+### Background
+
+Northwestern Mutual (cold calling, full-cycle). MindStudio AI Agent Certified. Bloomberg Market Concepts. Life & Health Insurance License.
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/daniel-weadock-393205292/)
-- Email: Danielweadock0@gmail.com
+[LinkedIn](https://linkedin.com/in/daniel-weadock-393205292) · danielweadock0@gmail.com
